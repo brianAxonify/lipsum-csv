@@ -67,10 +67,7 @@ downloadCSV(csvContent);
 
 ## How It Works
 
-1. **generateCSV Function**: Takes in the headers, number of rows, and data types to generate the CSV content as a string.
-2. **generateData Function**: Creates random data based on the specified type (`string`, `number`, `boolean`, `null`).
-3. **downloadCSV Function**: Creates a downloadable CSV file and automatically triggers a download in the browser.
-
+You can use the simple frontend by running `npm run build` and opening the index.html
 
 ## Author
 

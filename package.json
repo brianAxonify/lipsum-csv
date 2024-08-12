@@ -1,0 +1,25 @@
+{
+  "name": "lipsum-csv",
+  "version": "1.0.0",
+  "description": "This JavaScript program dynamically generates a CSV file of any specified size. It allows users to define custom headers and data types for each column, producing random data accordingly. The generated CSV can then be downloaded directly to the user's machine.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianAxonify/lipsum-csv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianAxonify/lipsum-csv/issues"
+  },
+  "homepage": "https://github.com/brianAxonify/lipsum-csv#readme",
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
